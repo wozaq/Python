@@ -1,6 +1,7 @@
 from tkinter import *
 from time import sleep
 
+####Main####
 def main():
     
     kolumna()
